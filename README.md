@@ -12,7 +12,7 @@ https://atcoder.jp/contests/abc130/tasks/abc130_d
 
 解答　: https://atcoder.jp/contests/abc130/submissions/16080914
 
-## ABC023A Zero-Sum Ranges
+## AGC023A Zero-Sum Ranges
 https://atcoder.jp/contests/agc023/tasks/agc023_a
 
 解答 : https://atcoder.jp/contests/agc023/submissions/16081143
